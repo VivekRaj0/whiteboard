@@ -1,17 +1,6 @@
-# react-socket.io-white-board-sharing-app-youtube-series
-this is the repo for updated code of react-socket.io-white-board-sharing-app-youtube-series
+# Whiteboard-app
 
-Youtube Playlist [https://www.youtube.com/playlist?list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn]
-
-
-# Prerequisites
-1. NodeJs
-2. Git
-3. Code Editor
-4. React Basics
-5. Browser
-6. Yarn (if not installed use command `npm i -g yarn` in cmd or terminal)
-
+Live Link- 
  
 # Installation Guide
 1. Download or Clone this repo
