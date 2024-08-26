@@ -1,6 +1,9 @@
 # Whiteboard-app
 
-Live Link- 
+![image](https://github.com/user-attachments/assets/ba20bfbe-aa5f-4bd5-b7aa-cb89fdcac575)
+
+![image](https://github.com/user-attachments/assets/16aa0085-8da1-45fe-8415-2950a9885619)
+
  
 # Installation Guide
 1. Download or Clone this repo
