@@ -4,7 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/16aa0085-8da1-45fe-8415-2950a9885619)
 
- 
+![image](https://github.com/user-attachments/assets/b025fab9-e27c-4bb3-afdb-39e32df7c87c)
+
+![image](https://github.com/user-attachments/assets/e9e88a1e-3617-4154-b610-749c3448af9e)
+
+
 # Installation Guide
 1. Download or Clone this repo
 2. Unzip the repo (if downloaded)
